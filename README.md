@@ -4,4 +4,4 @@ It showes actors from Netflix's show Lucifer. It can show next, previous and ran
 
 # Live
 
-[Live]()
+[Live](https://stankovics.github.io/JSLuciferCast/)
